@@ -1,0 +1,1 @@
+# Core views removed - functionality moved to individual apps

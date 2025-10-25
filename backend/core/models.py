@@ -1,0 +1,1 @@
+# Core models removed - no longer needed

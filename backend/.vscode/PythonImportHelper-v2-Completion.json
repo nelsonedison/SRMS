@@ -1,0 +1,2234 @@
+[
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "make_password",
+        "importPath": "django.contrib.auth.hashers",
+        "description": "django.contrib.auth.hashers",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.hashers",
+        "documentation": {}
+    },
+    {
+        "label": "make_password",
+        "importPath": "django.contrib.auth.hashers",
+        "description": "django.contrib.auth.hashers",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.hashers",
+        "documentation": {}
+    },
+    {
+        "label": "check_password",
+        "importPath": "django.contrib.auth.hashers",
+        "description": "django.contrib.auth.hashers",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.hashers",
+        "documentation": {}
+    },
+    {
+        "label": "check_password",
+        "importPath": "django.contrib.auth.hashers",
+        "description": "django.contrib.auth.hashers",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.hashers",
+        "documentation": {}
+    },
+    {
+        "label": "make_password",
+        "importPath": "django.contrib.auth.hashers",
+        "description": "django.contrib.auth.hashers",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.hashers",
+        "documentation": {}
+    },
+    {
+        "label": "check_password",
+        "importPath": "django.contrib.auth.hashers",
+        "description": "django.contrib.auth.hashers",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.hashers",
+        "documentation": {}
+    },
+    {
+        "label": "make_password",
+        "importPath": "django.contrib.auth.hashers",
+        "description": "django.contrib.auth.hashers",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.hashers",
+        "documentation": {}
+    },
+    {
+        "label": "check_password",
+        "importPath": "django.contrib.auth.hashers",
+        "description": "django.contrib.auth.hashers",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.hashers",
+        "documentation": {}
+    },
+    {
+        "label": "serializers",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "serializers",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "serializers",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "serializers",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "serializers",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "serializers",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "api_view",
+        "importPath": "rest_framework.decorators",
+        "description": "rest_framework.decorators",
+        "isExtraImport": true,
+        "detail": "rest_framework.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "permission_classes",
+        "importPath": "rest_framework.decorators",
+        "description": "rest_framework.decorators",
+        "isExtraImport": true,
+        "detail": "rest_framework.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "api_view",
+        "importPath": "rest_framework.decorators",
+        "description": "rest_framework.decorators",
+        "isExtraImport": true,
+        "detail": "rest_framework.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "permission_classes",
+        "importPath": "rest_framework.decorators",
+        "description": "rest_framework.decorators",
+        "isExtraImport": true,
+        "detail": "rest_framework.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "api_view",
+        "importPath": "rest_framework.decorators",
+        "description": "rest_framework.decorators",
+        "isExtraImport": true,
+        "detail": "rest_framework.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "api_view",
+        "importPath": "rest_framework.decorators",
+        "description": "rest_framework.decorators",
+        "isExtraImport": true,
+        "detail": "rest_framework.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "api_view",
+        "importPath": "rest_framework.decorators",
+        "description": "rest_framework.decorators",
+        "isExtraImport": true,
+        "detail": "rest_framework.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "permission_classes",
+        "importPath": "rest_framework.decorators",
+        "description": "rest_framework.decorators",
+        "isExtraImport": true,
+        "detail": "rest_framework.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "api_view",
+        "importPath": "rest_framework.decorators",
+        "description": "rest_framework.decorators",
+        "isExtraImport": true,
+        "detail": "rest_framework.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "permission_classes",
+        "importPath": "rest_framework.decorators",
+        "description": "rest_framework.decorators",
+        "isExtraImport": true,
+        "detail": "rest_framework.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "AllowAny",
+        "importPath": "rest_framework.permissions",
+        "description": "rest_framework.permissions",
+        "isExtraImport": true,
+        "detail": "rest_framework.permissions",
+        "documentation": {}
+    },
+    {
+        "label": "AllowAny",
+        "importPath": "rest_framework.permissions",
+        "description": "rest_framework.permissions",
+        "isExtraImport": true,
+        "detail": "rest_framework.permissions",
+        "documentation": {}
+    },
+    {
+        "label": "AllowAny",
+        "importPath": "rest_framework.permissions",
+        "description": "rest_framework.permissions",
+        "isExtraImport": true,
+        "detail": "rest_framework.permissions",
+        "documentation": {}
+    },
+    {
+        "label": "AllowAny",
+        "importPath": "rest_framework.permissions",
+        "description": "rest_framework.permissions",
+        "isExtraImport": true,
+        "detail": "rest_framework.permissions",
+        "documentation": {}
+    },
+    {
+        "label": "generate_jwt_token",
+        "importPath": "shared.utils",
+        "description": "shared.utils",
+        "isExtraImport": true,
+        "detail": "shared.utils",
+        "documentation": {}
+    },
+    {
+        "label": "success_response",
+        "importPath": "shared.utils",
+        "description": "shared.utils",
+        "isExtraImport": true,
+        "detail": "shared.utils",
+        "documentation": {}
+    },
+    {
+        "label": "error_response",
+        "importPath": "shared.utils",
+        "description": "shared.utils",
+        "isExtraImport": true,
+        "detail": "shared.utils",
+        "documentation": {}
+    },
+    {
+        "label": "generate_jwt_token",
+        "importPath": "shared.utils",
+        "description": "shared.utils",
+        "isExtraImport": true,
+        "detail": "shared.utils",
+        "documentation": {}
+    },
+    {
+        "label": "success_response",
+        "importPath": "shared.utils",
+        "description": "shared.utils",
+        "isExtraImport": true,
+        "detail": "shared.utils",
+        "documentation": {}
+    },
+    {
+        "label": "error_response",
+        "importPath": "shared.utils",
+        "description": "shared.utils",
+        "isExtraImport": true,
+        "detail": "shared.utils",
+        "documentation": {}
+    },
+    {
+        "label": "generate_jwt_token",
+        "importPath": "shared.utils",
+        "description": "shared.utils",
+        "isExtraImport": true,
+        "detail": "shared.utils",
+        "documentation": {}
+    },
+    {
+        "label": "success_response",
+        "importPath": "shared.utils",
+        "description": "shared.utils",
+        "isExtraImport": true,
+        "detail": "shared.utils",
+        "documentation": {}
+    },
+    {
+        "label": "error_response",
+        "importPath": "shared.utils",
+        "description": "shared.utils",
+        "isExtraImport": true,
+        "detail": "shared.utils",
+        "documentation": {}
+    },
+    {
+        "label": "get_user_from_token",
+        "importPath": "shared.utils",
+        "description": "shared.utils",
+        "isExtraImport": true,
+        "detail": "shared.utils",
+        "documentation": {}
+    },
+    {
+        "label": "require_admin",
+        "importPath": "shared.decorators",
+        "description": "shared.decorators",
+        "isExtraImport": true,
+        "detail": "shared.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "require_auth",
+        "importPath": "shared.decorators",
+        "description": "shared.decorators",
+        "isExtraImport": true,
+        "detail": "shared.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "require_admin",
+        "importPath": "shared.decorators",
+        "description": "shared.decorators",
+        "isExtraImport": true,
+        "detail": "shared.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "require_auth",
+        "importPath": "shared.decorators",
+        "description": "shared.decorators",
+        "isExtraImport": true,
+        "detail": "shared.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "get_asgi_application",
+        "importPath": "django.core.asgi",
+        "description": "django.core.asgi",
+        "isExtraImport": true,
+        "detail": "django.core.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "get_wsgi_application",
+        "importPath": "django.core.wsgi",
+        "description": "django.core.wsgi",
+        "isExtraImport": true,
+        "detail": "django.core.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "django.utils.timezone",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.utils.timezone",
+        "description": "django.utils.timezone",
+        "detail": "django.utils.timezone",
+        "documentation": {}
+    },
+    {
+        "label": "wraps",
+        "importPath": "functools",
+        "description": "functools",
+        "isExtraImport": true,
+        "detail": "functools",
+        "documentation": {}
+    },
+    {
+        "label": "wraps",
+        "importPath": "functools",
+        "description": "functools",
+        "isExtraImport": true,
+        "detail": "functools",
+        "documentation": {}
+    },
+    {
+        "label": "Response",
+        "importPath": "rest_framework.response",
+        "description": "rest_framework.response",
+        "isExtraImport": true,
+        "detail": "rest_framework.response",
+        "documentation": {}
+    },
+    {
+        "label": "Response",
+        "importPath": "rest_framework.response",
+        "description": "rest_framework.response",
+        "isExtraImport": true,
+        "detail": "rest_framework.response",
+        "documentation": {}
+    },
+    {
+        "label": "Response",
+        "importPath": "rest_framework.response",
+        "description": "rest_framework.response",
+        "isExtraImport": true,
+        "detail": "rest_framework.response",
+        "documentation": {}
+    },
+    {
+        "label": "django.db.models.deletion",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.db.models.deletion",
+        "description": "django.db.models.deletion",
+        "detail": "django.db.models.deletion",
+        "documentation": {}
+    },
+    {
+        "label": "students.models",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "students.models",
+        "description": "students.models",
+        "detail": "students.models",
+        "documentation": {}
+    },
+    {
+        "label": "Student",
+        "importPath": "students.models",
+        "description": "students.models",
+        "isExtraImport": true,
+        "detail": "students.models",
+        "documentation": {}
+    },
+    {
+        "label": "Student",
+        "importPath": "students.models",
+        "description": "students.models",
+        "isExtraImport": true,
+        "detail": "students.models",
+        "documentation": {}
+    },
+    {
+        "label": "Teacher",
+        "importPath": "teachers.models",
+        "description": "teachers.models",
+        "isExtraImport": true,
+        "detail": "teachers.models",
+        "documentation": {}
+    },
+    {
+        "label": "Teacher",
+        "importPath": "teachers.models",
+        "description": "teachers.models",
+        "isExtraImport": true,
+        "detail": "teachers.models",
+        "documentation": {}
+    },
+    {
+        "label": "AdminUser",
+        "importPath": "adminpanel.models",
+        "description": "adminpanel.models",
+        "isExtraImport": true,
+        "detail": "adminpanel.models",
+        "documentation": {}
+    },
+    {
+        "label": "timezone",
+        "importPath": "django.utils",
+        "description": "django.utils",
+        "isExtraImport": true,
+        "detail": "django.utils",
+        "documentation": {}
+    },
+    {
+        "label": "timezone",
+        "importPath": "django.utils",
+        "description": "django.utils",
+        "isExtraImport": true,
+        "detail": "django.utils",
+        "documentation": {}
+    },
+    {
+        "label": "timezone",
+        "importPath": "django.utils",
+        "description": "django.utils",
+        "isExtraImport": true,
+        "detail": "django.utils",
+        "documentation": {}
+    },
+    {
+        "label": "timezone",
+        "importPath": "django.utils",
+        "description": "django.utils",
+        "isExtraImport": true,
+        "detail": "django.utils",
+        "documentation": {}
+    },
+    {
+        "label": "timezone",
+        "importPath": "django.utils",
+        "description": "django.utils",
+        "isExtraImport": true,
+        "detail": "django.utils",
+        "documentation": {}
+    },
+    {
+        "label": "timezone",
+        "importPath": "django.utils",
+        "description": "django.utils",
+        "isExtraImport": true,
+        "detail": "django.utils",
+        "documentation": {}
+    },
+    {
+        "label": "timezone",
+        "importPath": "django.utils",
+        "description": "django.utils",
+        "isExtraImport": true,
+        "detail": "django.utils",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "jwt",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "jwt",
+        "description": "jwt",
+        "detail": "jwt",
+        "documentation": {}
+    },
+    {
+        "label": "ValidationError",
+        "importPath": "django.core.exceptions",
+        "description": "django.core.exceptions",
+        "isExtraImport": true,
+        "detail": "django.core.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "ValidationError",
+        "importPath": "django.core.exceptions",
+        "description": "django.core.exceptions",
+        "isExtraImport": true,
+        "detail": "django.core.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "APPROVAL_STATUS_CHOICES",
+        "importPath": "shared.constants",
+        "description": "shared.constants",
+        "isExtraImport": true,
+        "detail": "shared.constants",
+        "documentation": {}
+    },
+    {
+        "label": "ROLE_CHOICES",
+        "importPath": "shared.constants",
+        "description": "shared.constants",
+        "isExtraImport": true,
+        "detail": "shared.constants",
+        "documentation": {}
+    },
+    {
+        "label": "Department",
+        "importPath": "shared.models",
+        "description": "shared.models",
+        "isExtraImport": true,
+        "detail": "shared.models",
+        "documentation": {}
+    },
+    {
+        "label": "Course",
+        "importPath": "shared.models",
+        "description": "shared.models",
+        "isExtraImport": true,
+        "detail": "shared.models",
+        "documentation": {}
+    },
+    {
+        "label": "Department",
+        "importPath": "shared.models",
+        "description": "shared.models",
+        "isExtraImport": true,
+        "detail": "shared.models",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "adminpanel.migrations.0001_initial",
+        "description": "adminpanel.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='AdminUser',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('email', models.EmailField(max_length=254, unique=True)),",
+        "detail": "adminpanel.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "adminpanel.migrations.0002_adminuser_role",
+        "description": "adminpanel.migrations.0002_adminuser_role",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('adminpanel', '0001_initial'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='adminuser',\n            name='role',\n            field=models.CharField(default='admin', max_length=20),\n        ),",
+        "detail": "adminpanel.migrations.0002_adminuser_role",
+        "documentation": {}
+    },
+    {
+        "label": "AdminpanelConfig",
+        "kind": 6,
+        "importPath": "adminpanel.apps",
+        "description": "adminpanel.apps",
+        "peekOfCode": "class AdminpanelConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'adminpanel'",
+        "detail": "adminpanel.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AdminUser",
+        "kind": 6,
+        "importPath": "adminpanel.models",
+        "description": "adminpanel.models",
+        "peekOfCode": "class AdminUser(models.Model):\n    email = models.EmailField(unique=True)\n    password = models.CharField(max_length=255)\n    name = models.CharField(max_length=100)\n    role = models.CharField(max_length=20, default='admin')\n    is_superuser = models.BooleanField(default=False)\n    is_active = models.BooleanField(default=True)\n    created_at = models.DateTimeField(auto_now_add=True)\n    updated_at = models.DateTimeField(auto_now=True)\n    def set_password(self, raw_password):",
+        "detail": "adminpanel.models",
+        "documentation": {}
+    },
+    {
+        "label": "AdminCreateSerializer",
+        "kind": 6,
+        "importPath": "adminpanel.serializers",
+        "description": "adminpanel.serializers",
+        "peekOfCode": "class AdminCreateSerializer(serializers.ModelSerializer):\n    password = serializers.CharField(write_only=True, min_length=8)\n    class Meta:\n        model = AdminUser\n        fields = ['name', 'email', 'password', 'is_superuser']\n    def create(self, validated_data):\n        validated_data['password'] = make_password(validated_data['password'])\n        return AdminUser.objects.create(**validated_data)\nclass AdminListSerializer(serializers.ModelSerializer):\n    class Meta:",
+        "detail": "adminpanel.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "AdminListSerializer",
+        "kind": 6,
+        "importPath": "adminpanel.serializers",
+        "description": "adminpanel.serializers",
+        "peekOfCode": "class AdminListSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = AdminUser\n        fields = ['id', 'name', 'email', 'is_superuser', 'is_active', 'created_at']\nclass AdminUpdateSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = AdminUser\n        fields = ['name', 'email', 'is_superuser', 'is_active']",
+        "detail": "adminpanel.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "AdminUpdateSerializer",
+        "kind": 6,
+        "importPath": "adminpanel.serializers",
+        "description": "adminpanel.serializers",
+        "peekOfCode": "class AdminUpdateSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = AdminUser\n        fields = ['name', 'email', 'is_superuser', 'is_active']",
+        "detail": "adminpanel.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "adminpanel.urls",
+        "description": "adminpanel.urls",
+        "peekOfCode": "urlpatterns = [\n    # Admin Registration\n    path('register/', views.register_admin, name='register_admin'),\n    # Admin Management\n    path('create/', views.create_admin, name='create_admin'),\n    path('list/', views.list_admins, name='list_admins'),\n    path('<int:admin_id>/update/', views.update_admin, name='update_admin'),\n    path('<int:admin_id>/deactivate/', views.deactivate_admin, name='deactivate_admin'),\n]",
+        "detail": "adminpanel.urls",
+        "documentation": {}
+    },
+    {
+        "label": "register_admin",
+        "kind": 2,
+        "importPath": "adminpanel.views",
+        "description": "adminpanel.views",
+        "peekOfCode": "def register_admin(request):\n    # Check if any admin exists\n    if AdminUser.objects.exists():\n        return error_response('Admin registration is disabled. Contact existing admin.', status.HTTP_403_FORBIDDEN)\n    serializer = AdminCreateSerializer(data=request.data)\n    if serializer.is_valid():\n        admin = serializer.save(is_superuser=True)\n        return success_response('First admin registered successfully', {\n            \"admin_id\": admin.id,\n            \"email\": admin.email",
+        "detail": "adminpanel.views",
+        "documentation": {}
+    },
+    {
+        "label": "create_admin",
+        "kind": 2,
+        "importPath": "adminpanel.views",
+        "description": "adminpanel.views",
+        "peekOfCode": "def create_admin(request):\n    serializer = AdminCreateSerializer(data=request.data)\n    if serializer.is_valid():\n        admin = serializer.save()\n        return success_response('USER_CREATED', {\n            \"admin_id\": admin.id,\n            \"email\": admin.email\n        }, status.HTTP_201_CREATED)\n    return error_response(serializer.errors)\n@api_view(['GET'])",
+        "detail": "adminpanel.views",
+        "documentation": {}
+    },
+    {
+        "label": "list_admins",
+        "kind": 2,
+        "importPath": "adminpanel.views",
+        "description": "adminpanel.views",
+        "peekOfCode": "def list_admins(request):\n    admins = AdminUser.objects.filter(is_active=True)\n    serializer = AdminListSerializer(admins, many=True)\n    return success_response('', {\"admins\": serializer.data})\n@api_view(['PUT'])\n@require_admin()\ndef update_admin(request, admin_id):\n    try:\n        admin = AdminUser.objects.get(id=admin_id)\n    except AdminUser.DoesNotExist:",
+        "detail": "adminpanel.views",
+        "documentation": {}
+    },
+    {
+        "label": "update_admin",
+        "kind": 2,
+        "importPath": "adminpanel.views",
+        "description": "adminpanel.views",
+        "peekOfCode": "def update_admin(request, admin_id):\n    try:\n        admin = AdminUser.objects.get(id=admin_id)\n    except AdminUser.DoesNotExist:\n        return error_response('USER_NOT_FOUND', status.HTTP_404_NOT_FOUND)\n    serializer = AdminUpdateSerializer(admin, data=request.data, partial=True)\n    if serializer.is_valid():\n        serializer.save()\n        return success_response('USER_UPDATED')\n    return error_response(serializer.errors)",
+        "detail": "adminpanel.views",
+        "documentation": {}
+    },
+    {
+        "label": "deactivate_admin",
+        "kind": 2,
+        "importPath": "adminpanel.views",
+        "description": "adminpanel.views",
+        "peekOfCode": "def deactivate_admin(request, admin_id):\n    try:\n        admin = AdminUser.objects.get(id=admin_id)\n    except AdminUser.DoesNotExist:\n        return error_response('USER_NOT_FOUND', status.HTTP_404_NOT_FOUND)\n    admin.is_active = False\n    admin.save()\n    return success_response('USER_DEACTIVATED')",
+        "detail": "adminpanel.views",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "backend_project.asgi",
+        "description": "backend_project.asgi",
+        "peekOfCode": "application = get_asgi_application()",
+        "detail": "backend_project.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": "backend_project.settings",
+        "description": "backend_project.settings",
+        "peekOfCode": "BASE_DIR = Path(__file__).resolve().parent.parent\nSECRET_KEY = 'django-insecure-change-this-key'\nDEBUG = True\nALLOWED_HOSTS = ['localhost', '127.0.0.1', '0.0.0.0']\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',",
+        "detail": "backend_project.settings",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "backend_project.settings",
+        "description": "backend_project.settings",
+        "peekOfCode": "SECRET_KEY = 'django-insecure-change-this-key'\nDEBUG = True\nALLOWED_HOSTS = ['localhost', '127.0.0.1', '0.0.0.0']\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',",
+        "detail": "backend_project.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": "backend_project.settings",
+        "description": "backend_project.settings",
+        "peekOfCode": "DEBUG = True\nALLOWED_HOSTS = ['localhost', '127.0.0.1', '0.0.0.0']\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'corsheaders',",
+        "detail": "backend_project.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ALLOWED_HOSTS",
+        "kind": 5,
+        "importPath": "backend_project.settings",
+        "description": "backend_project.settings",
+        "peekOfCode": "ALLOWED_HOSTS = ['localhost', '127.0.0.1', '0.0.0.0']\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'corsheaders',\n    'students',",
+        "detail": "backend_project.settings",
+        "documentation": {}
+    },
+    {
+        "label": "INSTALLED_APPS",
+        "kind": 5,
+        "importPath": "backend_project.settings",
+        "description": "backend_project.settings",
+        "peekOfCode": "INSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'corsheaders',\n    'students',\n    'teachers',",
+        "detail": "backend_project.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MIDDLEWARE",
+        "kind": 5,
+        "importPath": "backend_project.settings",
+        "description": "backend_project.settings",
+        "peekOfCode": "MIDDLEWARE = [\n    'corsheaders.middleware.CorsMiddleware',\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n]\nREST_FRAMEWORK = {",
+        "detail": "backend_project.settings",
+        "documentation": {}
+    },
+    {
+        "label": "REST_FRAMEWORK",
+        "kind": 5,
+        "importPath": "backend_project.settings",
+        "description": "backend_project.settings",
+        "peekOfCode": "REST_FRAMEWORK = {\n    'DEFAULT_AUTHENTICATION_CLASSES': [],\n    'DEFAULT_PERMISSION_CLASSES': [],\n}\n# CORS Settings\nCORS_ALLOWED_ORIGINS = [\n    \"http://localhost:3000\",\n    \"http://localhost:3001\", \n    \"http://localhost:5173\",\n    \"http://localhost:8080\",",
+        "detail": "backend_project.settings",
+        "documentation": {}
+    },
+    {
+        "label": "CORS_ALLOWED_ORIGINS",
+        "kind": 5,
+        "importPath": "backend_project.settings",
+        "description": "backend_project.settings",
+        "peekOfCode": "CORS_ALLOWED_ORIGINS = [\n    \"http://localhost:3000\",\n    \"http://localhost:3001\", \n    \"http://localhost:5173\",\n    \"http://localhost:8080\",\n    \"http://127.0.0.1:3000\",\n    \"http://127.0.0.1:5173\",\n]\nCORS_ALLOW_CREDENTIALS = True\nCORS_ALLOW_ALL_ORIGINS = DEBUG  # Allow all origins in development",
+        "detail": "backend_project.settings",
+        "documentation": {}
+    },
+    {
+        "label": "CORS_ALLOW_CREDENTIALS",
+        "kind": 5,
+        "importPath": "backend_project.settings",
+        "description": "backend_project.settings",
+        "peekOfCode": "CORS_ALLOW_CREDENTIALS = True\nCORS_ALLOW_ALL_ORIGINS = DEBUG  # Allow all origins in development\nCORS_ALLOWED_HEADERS = [\n    'accept',\n    'accept-encoding',\n    'authorization',\n    'content-type',\n    'dnt',\n    'origin',\n    'user-agent',",
+        "detail": "backend_project.settings",
+        "documentation": {}
+    },
+    {
+        "label": "CORS_ALLOW_ALL_ORIGINS",
+        "kind": 5,
+        "importPath": "backend_project.settings",
+        "description": "backend_project.settings",
+        "peekOfCode": "CORS_ALLOW_ALL_ORIGINS = DEBUG  # Allow all origins in development\nCORS_ALLOWED_HEADERS = [\n    'accept',\n    'accept-encoding',\n    'authorization',\n    'content-type',\n    'dnt',\n    'origin',\n    'user-agent',\n    'x-csrftoken',",
+        "detail": "backend_project.settings",
+        "documentation": {}
+    },
+    {
+        "label": "CORS_ALLOWED_HEADERS",
+        "kind": 5,
+        "importPath": "backend_project.settings",
+        "description": "backend_project.settings",
+        "peekOfCode": "CORS_ALLOWED_HEADERS = [\n    'accept',\n    'accept-encoding',\n    'authorization',\n    'content-type',\n    'dnt',\n    'origin',\n    'user-agent',\n    'x-csrftoken',\n    'x-requested-with',",
+        "detail": "backend_project.settings",
+        "documentation": {}
+    },
+    {
+        "label": "CORS_ALLOW_METHODS",
+        "kind": 5,
+        "importPath": "backend_project.settings",
+        "description": "backend_project.settings",
+        "peekOfCode": "CORS_ALLOW_METHODS = [\n    'DELETE',\n    'GET',\n    'OPTIONS',\n    'PATCH',\n    'POST',\n    'PUT',\n]\nROOT_URLCONF = 'backend_project.urls'\nTEMPLATES = [",
+        "detail": "backend_project.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT_URLCONF",
+        "kind": 5,
+        "importPath": "backend_project.settings",
+        "description": "backend_project.settings",
+        "peekOfCode": "ROOT_URLCONF = 'backend_project.urls'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',",
+        "detail": "backend_project.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TEMPLATES",
+        "kind": 5,
+        "importPath": "backend_project.settings",
+        "description": "backend_project.settings",
+        "peekOfCode": "TEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',\n                'django.contrib.auth.context_processors.auth',",
+        "detail": "backend_project.settings",
+        "documentation": {}
+    },
+    {
+        "label": "WSGI_APPLICATION",
+        "kind": 5,
+        "importPath": "backend_project.settings",
+        "description": "backend_project.settings",
+        "peekOfCode": "WSGI_APPLICATION = 'backend_project.wsgi.application'\n# DATABASES = {\n#     'default': {\n#         'ENGINE': 'django.db.backends.postgresql',\n#         'NAME': 'miniproject_db',\n#         'USER': 'postgres',\n#         'PASSWORD': 'Melbin2003',\n#         'HOST': 'localhost',\n#         'PORT': '5433',\n#     }",
+        "detail": "backend_project.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASES",
+        "kind": 5,
+        "importPath": "backend_project.settings",
+        "description": "backend_project.settings",
+        "peekOfCode": "DATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\nAUTH_PASSWORD_VALIDATORS = []\nLANGUAGE_CODE = 'en-us'\nTIME_ZONE = 'Asia/Kolkata'\nUSE_I18N = True",
+        "detail": "backend_project.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_PASSWORD_VALIDATORS",
+        "kind": 5,
+        "importPath": "backend_project.settings",
+        "description": "backend_project.settings",
+        "peekOfCode": "AUTH_PASSWORD_VALIDATORS = []\nLANGUAGE_CODE = 'en-us'\nTIME_ZONE = 'Asia/Kolkata'\nUSE_I18N = True\nUSE_TZ = True\nSTATIC_URL = '/static/'\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\n# AUTH_USER_MODEL = 'core.User'  # Disabled - using custom Student model\n# Disable CSRF for API endpoints\nCSRF_TRUSTED_ORIGINS = [",
+        "detail": "backend_project.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LANGUAGE_CODE",
+        "kind": 5,
+        "importPath": "backend_project.settings",
+        "description": "backend_project.settings",
+        "peekOfCode": "LANGUAGE_CODE = 'en-us'\nTIME_ZONE = 'Asia/Kolkata'\nUSE_I18N = True\nUSE_TZ = True\nSTATIC_URL = '/static/'\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\n# AUTH_USER_MODEL = 'core.User'  # Disabled - using custom Student model\n# Disable CSRF for API endpoints\nCSRF_TRUSTED_ORIGINS = [\n    \"http://localhost:3000\",",
+        "detail": "backend_project.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TIME_ZONE",
+        "kind": 5,
+        "importPath": "backend_project.settings",
+        "description": "backend_project.settings",
+        "peekOfCode": "TIME_ZONE = 'Asia/Kolkata'\nUSE_I18N = True\nUSE_TZ = True\nSTATIC_URL = '/static/'\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\n# AUTH_USER_MODEL = 'core.User'  # Disabled - using custom Student model\n# Disable CSRF for API endpoints\nCSRF_TRUSTED_ORIGINS = [\n    \"http://localhost:3000\",\n    \"http://localhost:5173\",",
+        "detail": "backend_project.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_I18N",
+        "kind": 5,
+        "importPath": "backend_project.settings",
+        "description": "backend_project.settings",
+        "peekOfCode": "USE_I18N = True\nUSE_TZ = True\nSTATIC_URL = '/static/'\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\n# AUTH_USER_MODEL = 'core.User'  # Disabled - using custom Student model\n# Disable CSRF for API endpoints\nCSRF_TRUSTED_ORIGINS = [\n    \"http://localhost:3000\",\n    \"http://localhost:5173\",\n    \"http://127.0.0.1:3000\",",
+        "detail": "backend_project.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_TZ",
+        "kind": 5,
+        "importPath": "backend_project.settings",
+        "description": "backend_project.settings",
+        "peekOfCode": "USE_TZ = True\nSTATIC_URL = '/static/'\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\n# AUTH_USER_MODEL = 'core.User'  # Disabled - using custom Student model\n# Disable CSRF for API endpoints\nCSRF_TRUSTED_ORIGINS = [\n    \"http://localhost:3000\",\n    \"http://localhost:5173\",\n    \"http://127.0.0.1:3000\",\n    \"http://127.0.0.1:5173\",",
+        "detail": "backend_project.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_URL",
+        "kind": 5,
+        "importPath": "backend_project.settings",
+        "description": "backend_project.settings",
+        "peekOfCode": "STATIC_URL = '/static/'\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\n# AUTH_USER_MODEL = 'core.User'  # Disabled - using custom Student model\n# Disable CSRF for API endpoints\nCSRF_TRUSTED_ORIGINS = [\n    \"http://localhost:3000\",\n    \"http://localhost:5173\",\n    \"http://127.0.0.1:3000\",\n    \"http://127.0.0.1:5173\",\n]",
+        "detail": "backend_project.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_AUTO_FIELD",
+        "kind": 5,
+        "importPath": "backend_project.settings",
+        "description": "backend_project.settings",
+        "peekOfCode": "DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\n# AUTH_USER_MODEL = 'core.User'  # Disabled - using custom Student model\n# Disable CSRF for API endpoints\nCSRF_TRUSTED_ORIGINS = [\n    \"http://localhost:3000\",\n    \"http://localhost:5173\",\n    \"http://127.0.0.1:3000\",\n    \"http://127.0.0.1:5173\",\n]\n# Security settings for development",
+        "detail": "backend_project.settings",
+        "documentation": {}
+    },
+    {
+        "label": "CSRF_TRUSTED_ORIGINS",
+        "kind": 5,
+        "importPath": "backend_project.settings",
+        "description": "backend_project.settings",
+        "peekOfCode": "CSRF_TRUSTED_ORIGINS = [\n    \"http://localhost:3000\",\n    \"http://localhost:5173\",\n    \"http://127.0.0.1:3000\",\n    \"http://127.0.0.1:5173\",\n]\n# Security settings for development\nSECURE_CROSS_ORIGIN_OPENER_POLICY = None",
+        "detail": "backend_project.settings",
+        "documentation": {}
+    },
+    {
+        "label": "SECURE_CROSS_ORIGIN_OPENER_POLICY",
+        "kind": 5,
+        "importPath": "backend_project.settings",
+        "description": "backend_project.settings",
+        "peekOfCode": "SECURE_CROSS_ORIGIN_OPENER_POLICY = None",
+        "detail": "backend_project.settings",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "backend_project.urls",
+        "description": "backend_project.urls",
+        "peekOfCode": "urlpatterns = [\n    path('admin/', admin.site.urls),\n    path('api/admin/', include('adminpanel.urls')),\n    path('api/students/', include('students.urls')),\n    path('api/teachers/', include('teachers.urls')),\n    path('api/shared/', include('shared.urls')),\n]",
+        "detail": "backend_project.urls",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "backend_project.wsgi",
+        "description": "backend_project.wsgi",
+        "peekOfCode": "application = get_wsgi_application()",
+        "detail": "backend_project.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "core.migrations.0001_initial",
+        "description": "core.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='LoginTable',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('email', models.EmailField(max_length=254, unique=True)),",
+        "detail": "core.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "core.migrations.0002_rename_table_logintable_user_type",
+        "description": "core.migrations.0002_rename_table_logintable_user_type",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('core', '0001_initial'),\n    ]\n    operations = [\n        migrations.RenameField(\n            model_name='logintable',\n            old_name='table',\n            new_name='user_type',\n        ),",
+        "detail": "core.migrations.0002_rename_table_logintable_user_type",
+        "documentation": {}
+    },
+    {
+        "label": "CoreConfig",
+        "kind": 6,
+        "importPath": "core.apps",
+        "description": "core.apps",
+        "peekOfCode": "class CoreConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'core'",
+        "detail": "core.apps",
+        "documentation": {}
+    },
+    {
+        "label": "jwt_required",
+        "kind": 2,
+        "importPath": "core.decorators",
+        "description": "core.decorators",
+        "peekOfCode": "def jwt_required(allowed_roles=None):\n    def decorator(view_func):\n        @wraps(view_func)\n        def wrapper(request, *args, **kwargs):\n            auth_header = request.headers.get('Authorization', None)\n            if not auth_header or not auth_header.startswith('Bearer '):\n                return Response({'error': 'Authorization header missing or invalid.'},\n                                status=status.HTTP_401_UNAUTHORIZED)\n            token = auth_header.split(' ')[1]\n            decoded = verify_jwt_token(token)",
+        "detail": "core.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "LoginSerializer",
+        "kind": 6,
+        "importPath": "core.serializers",
+        "description": "core.serializers",
+        "peekOfCode": "class LoginSerializer(serializers.Serializer):\n    email = serializers.EmailField()\n    password = serializers.CharField()",
+        "detail": "core.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "core.urls",
+        "description": "core.urls",
+        "peekOfCode": "urlpatterns = []",
+        "detail": "core.urls",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "shared.migrations.0001_initial",
+        "description": "shared.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n        ('students', '0002_student_is_active'),\n        ('teachers', '0001_initial'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Department',\n            fields=[",
+        "detail": "shared.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "SharedConfig",
+        "kind": 6,
+        "importPath": "shared.apps",
+        "description": "shared.apps",
+        "peekOfCode": "class SharedConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'shared'",
+        "detail": "shared.apps",
+        "documentation": {}
+    },
+    {
+        "label": "common_login",
+        "kind": 2,
+        "importPath": "shared.auth_views",
+        "description": "shared.auth_views",
+        "peekOfCode": "def common_login(request):\n    email = request.data.get('email')\n    password = request.data.get('password')\n    if not email or not password:\n        return error_response('Email and password are required')\n    # Try to find user in each model\n    user = None\n    user_type = None\n    # Check Student\n    try:",
+        "detail": "shared.auth_views",
+        "documentation": {}
+    },
+    {
+        "label": "DEPARTMENT_CHOICES",
+        "kind": 5,
+        "importPath": "shared.constants",
+        "description": "shared.constants",
+        "peekOfCode": "DEPARTMENT_CHOICES = [\n    ('CSE', 'Computer Science and Engineering'),\n    ('ECE', 'Electronics and Communication Engineering'),\n    ('EEE', 'Electrical and Electronics Engineering'),\n    ('ME', 'Mechanical Engineering'),\n    ('CE', 'Civil Engineering'),\n]\nCOURSE_CHOICES = [\n    ('BTECH', 'Bachelor of Technology'),\n    ('MTECH', 'Master of Technology'),",
+        "detail": "shared.constants",
+        "documentation": {}
+    },
+    {
+        "label": "COURSE_CHOICES",
+        "kind": 5,
+        "importPath": "shared.constants",
+        "description": "shared.constants",
+        "peekOfCode": "COURSE_CHOICES = [\n    ('BTECH', 'Bachelor of Technology'),\n    ('MTECH', 'Master of Technology'),\n    ('MBA', 'Master of Business Administration'),\n    ('MCA', 'Master of Computer Applications'),\n]\nAPPROVAL_STATUS_CHOICES = [\n    ('pending', 'Pending Approval'),\n    ('approved', 'Approved'),\n    ('rejected', 'Rejected'),",
+        "detail": "shared.constants",
+        "documentation": {}
+    },
+    {
+        "label": "APPROVAL_STATUS_CHOICES",
+        "kind": 5,
+        "importPath": "shared.constants",
+        "description": "shared.constants",
+        "peekOfCode": "APPROVAL_STATUS_CHOICES = [\n    ('pending', 'Pending Approval'),\n    ('approved', 'Approved'),\n    ('rejected', 'Rejected'),\n]\nROLE_CHOICES = [\n    ('principal', 'Principal'),\n    ('hod', 'Head of Department'),\n    ('tutor', 'Tutor'),\n]",
+        "detail": "shared.constants",
+        "documentation": {}
+    },
+    {
+        "label": "ROLE_CHOICES",
+        "kind": 5,
+        "importPath": "shared.constants",
+        "description": "shared.constants",
+        "peekOfCode": "ROLE_CHOICES = [\n    ('principal', 'Principal'),\n    ('hod', 'Head of Department'),\n    ('tutor', 'Tutor'),\n]\n# Error messages\nERROR_MESSAGES = {\n    'INVALID_CREDENTIALS': 'Invalid credentials',\n    'ACCESS_DENIED': 'Access denied',\n    'AUTHENTICATION_REQUIRED': 'Authentication required',",
+        "detail": "shared.constants",
+        "documentation": {}
+    },
+    {
+        "label": "ERROR_MESSAGES",
+        "kind": 5,
+        "importPath": "shared.constants",
+        "description": "shared.constants",
+        "peekOfCode": "ERROR_MESSAGES = {\n    'INVALID_CREDENTIALS': 'Invalid credentials',\n    'ACCESS_DENIED': 'Access denied',\n    'AUTHENTICATION_REQUIRED': 'Authentication required',\n    'ADMIN_ACCESS_REQUIRED': 'Admin access required',\n    'INVALID_TOKEN': 'Invalid token',\n    'USER_NOT_FOUND': 'User not found',\n    'REGISTRATION_PENDING': 'Your registration is pending approval',\n    'REGISTRATION_REJECTED': 'Your registration has been rejected',\n    'ACADEMIC_YEAR_EXPIRED': 'Academic year has expired. Please contact administration',",
+        "detail": "shared.constants",
+        "documentation": {}
+    },
+    {
+        "label": "SUCCESS_MESSAGES",
+        "kind": 5,
+        "importPath": "shared.constants",
+        "description": "shared.constants",
+        "peekOfCode": "SUCCESS_MESSAGES = {\n    'LOGIN_SUCCESS': 'Login successful',\n    'REGISTRATION_SUCCESS': 'Registration submitted successfully! Please wait for admin approval.',\n    'USER_CREATED': 'User created successfully',\n    'USER_UPDATED': 'User updated successfully',\n    'USER_DEACTIVATED': 'User deactivated successfully',\n    'APPROVAL_SUCCESS': 'User approved successfully',\n    'REJECTION_SUCCESS': 'User registration rejected',\n}",
+        "detail": "shared.constants",
+        "documentation": {}
+    },
+    {
+        "label": "require_auth",
+        "kind": 2,
+        "importPath": "shared.decorators",
+        "description": "shared.decorators",
+        "peekOfCode": "def require_auth(user_type=None, allow_admin=False):\n    \"\"\"Decorator to require authentication\"\"\"\n    def decorator(view_func):\n        @wraps(view_func)\n        def wrapper(request, *args, **kwargs):\n            auth_header = request.headers.get('Authorization')\n            if not auth_header or not auth_header.startswith('Bearer '):\n                return error_response('AUTHENTICATION_REQUIRED', status.HTTP_401_UNAUTHORIZED)\n            token = auth_header.split(' ')[1]\n            # Check for admin access first if allowed",
+        "detail": "shared.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "require_admin",
+        "kind": 2,
+        "importPath": "shared.decorators",
+        "description": "shared.decorators",
+        "peekOfCode": "def require_admin():\n    \"\"\"Decorator to require admin access only\"\"\"\n    def decorator(view_func):\n        @wraps(view_func)\n        def wrapper(request, *args, **kwargs):\n            auth_header = request.headers.get('Authorization')\n            if not auth_header or not auth_header.startswith('Bearer '):\n                return error_response('ADMIN_ACCESS_REQUIRED', status.HTTP_403_FORBIDDEN)\n            token = auth_header.split(' ')[1]\n            # Check for hardcoded admin token (for initial setup)",
+        "detail": "shared.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "CustomForm",
+        "kind": 6,
+        "importPath": "shared.form_models",
+        "description": "shared.form_models",
+        "peekOfCode": "class CustomForm(models.Model):\n    title = models.CharField(max_length=200)\n    description = models.TextField(blank=True)\n    department = models.ForeignKey('shared.Department', on_delete=models.CASCADE, null=True, blank=True)\n    is_active = models.BooleanField(default=True)\n    created_by_type = models.CharField(max_length=20)\n    created_by_id = models.IntegerField()\n    created_at = models.DateTimeField(default=timezone.now)\n    def __str__(self):\n        return self.title",
+        "detail": "shared.form_models",
+        "documentation": {}
+    },
+    {
+        "label": "FormField",
+        "kind": 6,
+        "importPath": "shared.form_models",
+        "description": "shared.form_models",
+        "peekOfCode": "class FormField(models.Model):\n    form = models.ForeignKey(CustomForm, on_delete=models.CASCADE, related_name='fields')\n    label = models.CharField(max_length=200)\n    field_type = models.CharField(max_length=20, choices=FIELD_TYPE_CHOICES)\n    is_required = models.BooleanField(default=False)\n    placeholder = models.CharField(max_length=200, blank=True)\n    options = models.JSONField(default=list, blank=True)  # For select/radio/checkbox\n    order = models.IntegerField(default=0)\n    class Meta:\n        ordering = ['order']",
+        "detail": "shared.form_models",
+        "documentation": {}
+    },
+    {
+        "label": "FormSubmission",
+        "kind": 6,
+        "importPath": "shared.form_models",
+        "description": "shared.form_models",
+        "peekOfCode": "class FormSubmission(models.Model):\n    form = models.ForeignKey(CustomForm, on_delete=models.CASCADE, related_name='submissions')\n    student = models.ForeignKey('students.Student', on_delete=models.CASCADE)\n    data = models.JSONField()\n    status = models.CharField(max_length=20, choices=[\n        ('pending_tutor', 'Pending Tutor Approval'),\n        ('pending_hod', 'Pending HOD Approval'),\n        ('pending_principal', 'Pending Principal Approval'),\n        ('approved', 'Approved'),\n        ('rejected', 'Rejected')",
+        "detail": "shared.form_models",
+        "documentation": {}
+    },
+    {
+        "label": "FIELD_TYPE_CHOICES",
+        "kind": 5,
+        "importPath": "shared.form_models",
+        "description": "shared.form_models",
+        "peekOfCode": "FIELD_TYPE_CHOICES = [\n    ('text', 'Text Input'),\n    ('textarea', 'Text Area'),\n    ('number', 'Number'),\n    ('email', 'Email'),\n    ('date', 'Date'),\n    ('select', 'Dropdown'),\n    ('radio', 'Radio Button'),\n    ('checkbox', 'Checkbox'),\n    ('file', 'File Upload'),",
+        "detail": "shared.form_models",
+        "documentation": {}
+    },
+    {
+        "label": "FormFieldSerializer",
+        "kind": 6,
+        "importPath": "shared.form_serializers",
+        "description": "shared.form_serializers",
+        "peekOfCode": "class FormFieldSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = FormField\n        fields = ['id', 'label', 'field_type', 'is_required', 'placeholder', 'options', 'order']\nclass CustomFormSerializer(serializers.ModelSerializer):\n    fields = FormFieldSerializer(many=True, read_only=True)\n    department_name = serializers.CharField(source='department.name', read_only=True)\n    created_by_name = serializers.SerializerMethodField()\n    class Meta:\n        model = CustomForm",
+        "detail": "shared.form_serializers",
+        "documentation": {}
+    },
+    {
+        "label": "CustomFormSerializer",
+        "kind": 6,
+        "importPath": "shared.form_serializers",
+        "description": "shared.form_serializers",
+        "peekOfCode": "class CustomFormSerializer(serializers.ModelSerializer):\n    fields = FormFieldSerializer(many=True, read_only=True)\n    department_name = serializers.CharField(source='department.name', read_only=True)\n    created_by_name = serializers.SerializerMethodField()\n    class Meta:\n        model = CustomForm\n        fields = ['id', 'title', 'description', 'department', 'department_name', 'is_active', 'fields', 'created_by_type', 'created_by_name', 'created_at']\n        read_only_fields = ['created_by_type', 'created_by_id', 'created_at']\n    def get_created_by_name(self, obj):\n        if obj.created_by_type == 'admin':",
+        "detail": "shared.form_serializers",
+        "documentation": {}
+    },
+    {
+        "label": "FormCreateSerializer",
+        "kind": 6,
+        "importPath": "shared.form_serializers",
+        "description": "shared.form_serializers",
+        "peekOfCode": "class FormCreateSerializer(serializers.ModelSerializer):\n    fields = FormFieldSerializer(many=True)\n    class Meta:\n        model = CustomForm\n        fields = ['title', 'description', 'department', 'fields']\n    def create(self, validated_data):\n        fields_data = validated_data.pop('fields')\n        form = CustomForm.objects.create(**validated_data)\n        for field_data in fields_data:\n            FormField.objects.create(form=form, **field_data)",
+        "detail": "shared.form_serializers",
+        "documentation": {}
+    },
+    {
+        "label": "FormSubmissionSerializer",
+        "kind": 6,
+        "importPath": "shared.form_serializers",
+        "description": "shared.form_serializers",
+        "peekOfCode": "class FormSubmissionSerializer(serializers.ModelSerializer):\n    form_title = serializers.CharField(source='form.title', read_only=True)\n    student_name = serializers.CharField(source='student.name', read_only=True)\n    student_college_id = serializers.CharField(source='student.college_id', read_only=True)\n    reviewed_by_name = serializers.SerializerMethodField()\n    class Meta:\n        model = FormSubmission\n        fields = ['id', 'form', 'form_title', 'student', 'student_name', 'student_college_id', 'data', 'status', 'submitted_at', 'reviewed_by_name', 'tutor_reviewed_by', 'tutor_reviewed_at', 'tutor_comments', 'hod_reviewed_by', 'hod_reviewed_at', 'hod_comments', 'principal_reviewed_by', 'principal_reviewed_at', 'principal_comments']\n        read_only_fields = ['student', 'submitted_at', 'tutor_reviewed_by', 'tutor_reviewed_at', 'tutor_comments', 'hod_reviewed_by', 'hod_reviewed_at', 'hod_comments', 'principal_reviewed_by', 'principal_reviewed_at', 'principal_comments']\n    def get_reviewed_by_name(self, obj):",
+        "detail": "shared.form_serializers",
+        "documentation": {}
+    },
+    {
+        "label": "FormSubmissionCreateSerializer",
+        "kind": 6,
+        "importPath": "shared.form_serializers",
+        "description": "shared.form_serializers",
+        "peekOfCode": "class FormSubmissionCreateSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = FormSubmission\n        fields = ['form', 'data']",
+        "detail": "shared.form_serializers",
+        "documentation": {}
+    },
+    {
+        "label": "list_forms",
+        "kind": 2,
+        "importPath": "shared.form_views",
+        "description": "shared.form_views",
+        "peekOfCode": "def list_forms(request):\n    department_id = request.GET.get('department_id')\n    # Get user info from token if authenticated\n    auth_header = request.headers.get('Authorization')\n    user_type = None\n    user = None\n    if auth_header and auth_header.startswith('Bearer '):\n        from .utils import verify_jwt_token, get_user_from_token\n        token = auth_header.split(' ')[1]\n        payload = verify_jwt_token(token)",
+        "detail": "shared.form_views",
+        "documentation": {}
+    },
+    {
+        "label": "get_form",
+        "kind": 2,
+        "importPath": "shared.form_views",
+        "description": "shared.form_views",
+        "peekOfCode": "def get_form(request, form_id):\n    try:\n        form = CustomForm.objects.get(id=form_id, is_active=True)\n    except CustomForm.DoesNotExist:\n        return error_response('Form not found', status.HTTP_404_NOT_FOUND)\n    serializer = CustomFormSerializer(form)\n    return success_response('', {\"form\": serializer.data})\n@api_view(['POST'])\n@require_auth('teacher', allow_admin=True)\ndef create_form(request):",
+        "detail": "shared.form_views",
+        "documentation": {}
+    },
+    {
+        "label": "create_form",
+        "kind": 2,
+        "importPath": "shared.form_views",
+        "description": "shared.form_views",
+        "peekOfCode": "def create_form(request):\n    if request.user_type == 'admin':\n        created_by_type = 'admin'\n        created_by_id = 1\n    elif request.user.role in ['principal', 'hod']:\n        created_by_type = request.user.role\n        created_by_id = request.user.id\n        # HOD can only create forms for their department\n        if request.user.role == 'hod':\n            department_id = request.data.get('department')",
+        "detail": "shared.form_views",
+        "documentation": {}
+    },
+    {
+        "label": "submit_form",
+        "kind": 2,
+        "importPath": "shared.form_views",
+        "description": "shared.form_views",
+        "peekOfCode": "def submit_form(request, form_id):\n    try:\n        form = CustomForm.objects.get(id=form_id, is_active=True)\n    except CustomForm.DoesNotExist:\n        return error_response('Form not found', status.HTTP_404_NOT_FOUND)\n    # Validate form data against form fields\n    form_data = request.data.get('data', {})\n    for field in form.fields.all():\n        if field.is_required and not form_data.get(field.label):\n            return error_response(f\"Field '{field.label}' is required\")",
+        "detail": "shared.form_views",
+        "documentation": {}
+    },
+    {
+        "label": "my_submissions",
+        "kind": 2,
+        "importPath": "shared.form_views",
+        "description": "shared.form_views",
+        "peekOfCode": "def my_submissions(request):\n    submissions = FormSubmission.objects.filter(student=request.user).order_by('-submitted_at')\n    serializer = FormSubmissionSerializer(submissions, many=True)\n    return success_response('', {\"submissions\": serializer.data})\n@api_view(['GET'])\n@require_auth('teacher', allow_admin=True)\ndef list_submissions(request):\n    form_id = request.GET.get('form_id')\n    status_filter = request.GET.get('status')\n    submissions = FormSubmission.objects.all()",
+        "detail": "shared.form_views",
+        "documentation": {}
+    },
+    {
+        "label": "list_submissions",
+        "kind": 2,
+        "importPath": "shared.form_views",
+        "description": "shared.form_views",
+        "peekOfCode": "def list_submissions(request):\n    form_id = request.GET.get('form_id')\n    status_filter = request.GET.get('status')\n    submissions = FormSubmission.objects.all()\n    if form_id:\n        submissions = submissions.filter(form_id=form_id)\n    if status_filter:\n        submissions = submissions.filter(status=status_filter)\n    # Filter based on user role\n    if request.user.role == 'tutor':",
+        "detail": "shared.form_views",
+        "documentation": {}
+    },
+    {
+        "label": "review_submission",
+        "kind": 2,
+        "importPath": "shared.form_views",
+        "description": "shared.form_views",
+        "peekOfCode": "def review_submission(request, submission_id):\n    try:\n        submission = FormSubmission.objects.get(id=submission_id)\n    except FormSubmission.DoesNotExist:\n        return error_response('Submission not found', status.HTTP_404_NOT_FOUND)\n    action = request.data.get('action')  # 'approve' or 'reject'\n    comments = request.data.get('comments', '')\n    if action not in ['approve', 'reject']:\n        return error_response('Invalid action. Use approve or reject')\n    # Get student's course tutor, department HOD, and principal",
+        "detail": "shared.form_views",
+        "documentation": {}
+    },
+    {
+        "label": "can_manage_form",
+        "kind": 2,
+        "importPath": "shared.form_views",
+        "description": "shared.form_views",
+        "peekOfCode": "def can_manage_form(user_type, user, form):\n    \"\"\"Check if user can manage (update/delete) the form based on hierarchy\"\"\"\n    if user_type == 'admin':\n        return True\n    if form.created_by_type == 'admin':\n        return user_type == 'admin'\n    elif form.created_by_type == 'principal':\n        return user_type == 'admin' or (user_type == 'teacher' and user.role == 'principal' and user.id == form.created_by_id)\n    elif form.created_by_type == 'hod':\n        return (user_type == 'admin' or ",
+        "detail": "shared.form_views",
+        "documentation": {}
+    },
+    {
+        "label": "update_form",
+        "kind": 2,
+        "importPath": "shared.form_views",
+        "description": "shared.form_views",
+        "peekOfCode": "def update_form(request, form_id):\n    try:\n        form = CustomForm.objects.get(id=form_id)\n    except CustomForm.DoesNotExist:\n        return error_response('Form not found', status.HTTP_404_NOT_FOUND)\n    if not can_manage_form(request.user_type, request.user, form):\n        return error_response('ACCESS_DENIED', status.HTTP_403_FORBIDDEN)\n    if 'title' in request.data:\n        form.title = request.data['title']\n    if 'description' in request.data:",
+        "detail": "shared.form_views",
+        "documentation": {}
+    },
+    {
+        "label": "delete_form",
+        "kind": 2,
+        "importPath": "shared.form_views",
+        "description": "shared.form_views",
+        "peekOfCode": "def delete_form(request, form_id):\n    try:\n        form = CustomForm.objects.get(id=form_id)\n    except CustomForm.DoesNotExist:\n        return error_response('Form not found', status.HTTP_404_NOT_FOUND)\n    if not can_manage_form(request.user_type, request.user, form):\n        return error_response('ACCESS_DENIED', status.HTTP_403_FORBIDDEN)\n    form.delete()\n    return success_response('Form deleted successfully')",
+        "detail": "shared.form_views",
+        "documentation": {}
+    },
+    {
+        "label": "Department",
+        "kind": 6,
+        "importPath": "shared.models",
+        "description": "shared.models",
+        "peekOfCode": "class Department(models.Model):\n    name = models.CharField(max_length=100)\n    code = models.CharField(max_length=10, unique=True)\n    description = models.TextField(blank=True)\n    is_active = models.BooleanField(default=True)\n    created_by_type = models.CharField(max_length=20)  # 'admin' or 'principal'\n    created_by_id = models.IntegerField()\n    created_at = models.DateTimeField(default=timezone.now)\n    def __str__(self):\n        return f\"{self.code} - {self.name}\"",
+        "detail": "shared.models",
+        "documentation": {}
+    },
+    {
+        "label": "Course",
+        "kind": 6,
+        "importPath": "shared.models",
+        "description": "shared.models",
+        "peekOfCode": "class Course(models.Model):\n    name = models.CharField(max_length=100)\n    code = models.CharField(max_length=10, unique=True)\n    department = models.ForeignKey(Department, on_delete=models.CASCADE, related_name='courses')\n    description = models.TextField(blank=True)\n    is_active = models.BooleanField(default=True)\n    created_by_type = models.CharField(max_length=20)  # 'admin', 'principal', or 'hod'\n    created_by_id = models.IntegerField()\n    created_at = models.DateTimeField(default=timezone.now)\n    def __str__(self):",
+        "detail": "shared.models",
+        "documentation": {}
+    },
+    {
+        "label": "DepartmentSerializer",
+        "kind": 6,
+        "importPath": "shared.serializers",
+        "description": "shared.serializers",
+        "peekOfCode": "class DepartmentSerializer(serializers.ModelSerializer):\n    created_by_name = serializers.SerializerMethodField()\n    class Meta:\n        model = Department\n        fields = ['id', 'name', 'code', 'description', 'is_active', 'created_by_type', 'created_by_name', 'created_at']\n        read_only_fields = ['created_by_type', 'created_by_id', 'created_at']\n    def get_created_by_name(self, obj):\n        if obj.created_by_type == 'admin':\n            from adminpanel.models import AdminUser\n            try:",
+        "detail": "shared.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "DepartmentCreateSerializer",
+        "kind": 6,
+        "importPath": "shared.serializers",
+        "description": "shared.serializers",
+        "peekOfCode": "class DepartmentCreateSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = Department\n        fields = ['name', 'code', 'description']\nclass CourseSerializer(serializers.ModelSerializer):\n    department_name = serializers.CharField(source='department.name', read_only=True)\n    created_by_name = serializers.SerializerMethodField()\n    class Meta:\n        model = Course\n        fields = ['id', 'name', 'code', 'department', 'department_name', 'description', 'is_active', 'created_by_type', 'created_by_name', 'created_at']",
+        "detail": "shared.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "CourseSerializer",
+        "kind": 6,
+        "importPath": "shared.serializers",
+        "description": "shared.serializers",
+        "peekOfCode": "class CourseSerializer(serializers.ModelSerializer):\n    department_name = serializers.CharField(source='department.name', read_only=True)\n    created_by_name = serializers.SerializerMethodField()\n    class Meta:\n        model = Course\n        fields = ['id', 'name', 'code', 'department', 'department_name', 'description', 'is_active', 'created_by_type', 'created_by_name', 'created_at']\n        read_only_fields = ['created_by_type', 'created_by_id', 'created_at']\n    def get_created_by_name(self, obj):\n        if obj.created_by_type == 'admin':\n            from adminpanel.models import AdminUser",
+        "detail": "shared.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "CourseCreateSerializer",
+        "kind": 6,
+        "importPath": "shared.serializers",
+        "description": "shared.serializers",
+        "peekOfCode": "class CourseCreateSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = Course\n        fields = ['name', 'code', 'department', 'description']",
+        "detail": "shared.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "shared.urls",
+        "description": "shared.urls",
+        "peekOfCode": "urlpatterns = [\n    # Common Authentication\n    path('login/', auth_views.common_login, name='common_login'),\n    # Department Management\n    path('departments/', views.list_departments, name='list_departments'),\n    path('departments/create/', views.create_department, name='create_department'),\n    path('departments/<int:dept_id>/update/', views.update_department, name='update_department'),\n    # Course Management\n    path('courses/', views.list_courses, name='list_courses'),\n    path('courses/create/', views.create_course, name='create_course'),",
+        "detail": "shared.urls",
+        "documentation": {}
+    },
+    {
+        "label": "generate_jwt_token",
+        "kind": 2,
+        "importPath": "shared.utils",
+        "description": "shared.utils",
+        "peekOfCode": "def generate_jwt_token(user, user_type='student', extra_data=None):\n    \"\"\"Generate JWT token for any user type\"\"\"\n    payload = {\n        'user_id': user.id,\n        'email': user.email,\n        'user_type': user_type,\n        'exp': timezone.now() + timezone.timedelta(days=7)\n    }\n    if user_type == 'student':\n        payload.update({",
+        "detail": "shared.utils",
+        "documentation": {}
+    },
+    {
+        "label": "verify_jwt_token",
+        "kind": 2,
+        "importPath": "shared.utils",
+        "description": "shared.utils",
+        "peekOfCode": "def verify_jwt_token(token):\n    \"\"\"Verify JWT token and return user data\"\"\"\n    try:\n        payload = jwt.decode(token, settings.SECRET_KEY, algorithms=['HS256'])\n        return payload\n    except (jwt.ExpiredSignatureError, jwt.InvalidTokenError):\n        return None\ndef get_user_from_token(token, user_type):\n    \"\"\"Get user object from token based on user type\"\"\"\n    payload = verify_jwt_token(token)",
+        "detail": "shared.utils",
+        "documentation": {}
+    },
+    {
+        "label": "get_user_from_token",
+        "kind": 2,
+        "importPath": "shared.utils",
+        "description": "shared.utils",
+        "peekOfCode": "def get_user_from_token(token, user_type):\n    \"\"\"Get user object from token based on user type\"\"\"\n    payload = verify_jwt_token(token)\n    if not payload or payload.get('user_type') != user_type:\n        return None\n    try:\n        if user_type == 'student':\n            from students.models import Student\n            return Student.objects.get(id=payload['user_id'], is_active=True)\n        elif user_type == 'teacher':",
+        "detail": "shared.utils",
+        "documentation": {}
+    },
+    {
+        "label": "error_response",
+        "kind": 2,
+        "importPath": "shared.utils",
+        "description": "shared.utils",
+        "peekOfCode": "def error_response(message_key, status_code=status.HTTP_400_BAD_REQUEST, extra_data=None):\n    \"\"\"Standardized error response\"\"\"\n    if isinstance(message_key, dict):\n        # Handle serializer errors\n        response_data = {\"error\": message_key}\n    else:\n        response_data = {\"error\": ERROR_MESSAGES.get(message_key, message_key)}\n    if extra_data:\n        response_data.update(extra_data)\n    return Response(response_data, status=status_code)",
+        "detail": "shared.utils",
+        "documentation": {}
+    },
+    {
+        "label": "success_response",
+        "kind": 2,
+        "importPath": "shared.utils",
+        "description": "shared.utils",
+        "peekOfCode": "def success_response(message_key, data=None, status_code=status.HTTP_200_OK):\n    \"\"\"Standardized success response\"\"\"\n    from .constants import SUCCESS_MESSAGES\n    response_data = {\"message\": SUCCESS_MESSAGES.get(message_key, message_key)}\n    if data:\n        response_data.update(data)\n    return Response(response_data, status=status_code)\ndef validate_auth_header(request, required_type=None):\n    \"\"\"Validate authorization header and return token\"\"\"\n    auth_header = request.headers.get('Authorization')",
+        "detail": "shared.utils",
+        "documentation": {}
+    },
+    {
+        "label": "validate_auth_header",
+        "kind": 2,
+        "importPath": "shared.utils",
+        "description": "shared.utils",
+        "peekOfCode": "def validate_auth_header(request, required_type=None):\n    \"\"\"Validate authorization header and return token\"\"\"\n    auth_header = request.headers.get('Authorization')\n    if not auth_header or not auth_header.startswith('Bearer '):\n        return None, error_response('AUTHENTICATION_REQUIRED', status.HTTP_401_UNAUTHORIZED)\n    token = auth_header.split(' ')[1]\n    # Check for admin token\n    if token == 'admin-token':\n        return 'admin-token', None\n    # Verify JWT token",
+        "detail": "shared.utils",
+        "documentation": {}
+    },
+    {
+        "label": "list_departments",
+        "kind": 2,
+        "importPath": "shared.views",
+        "description": "shared.views",
+        "peekOfCode": "def list_departments(request):\n    departments = Department.objects.filter(is_active=True)\n    serializer = DepartmentSerializer(departments, many=True)\n    return success_response('', {\"departments\": serializer.data})\n@api_view(['POST'])\n@require_auth('teacher', allow_admin=True)\ndef create_department(request):\n    print(f\"request user type in create department: {request.user_type}\")\n    if request.user_type == 'admin':\n        created_by_type = 'admin'",
+        "detail": "shared.views",
+        "documentation": {}
+    },
+    {
+        "label": "create_department",
+        "kind": 2,
+        "importPath": "shared.views",
+        "description": "shared.views",
+        "peekOfCode": "def create_department(request):\n    print(f\"request user type in create department: {request.user_type}\")\n    if request.user_type == 'admin':\n        created_by_type = 'admin'\n        created_by_id = request.user.id\n    elif request.user.role == 'principal':\n        created_by_type = 'principal'\n        created_by_id = request.user.id\n    else:\n        return error_response('ACCESS_DENIED', status.HTTP_403_FORBIDDEN)",
+        "detail": "shared.views",
+        "documentation": {}
+    },
+    {
+        "label": "list_courses",
+        "kind": 2,
+        "importPath": "shared.views",
+        "description": "shared.views",
+        "peekOfCode": "def list_courses(request):\n    department_id = request.GET.get('department_id')\n    if department_id:\n        courses = Course.objects.filter(department_id=department_id, is_active=True)\n    else:\n        courses = Course.objects.filter(is_active=True)\n    serializer = CourseSerializer(courses, many=True)\n    return success_response('', {\"courses\": serializer.data})\n@api_view(['POST'])\n@require_auth('teacher', allow_admin=True)",
+        "detail": "shared.views",
+        "documentation": {}
+    },
+    {
+        "label": "create_course",
+        "kind": 2,
+        "importPath": "shared.views",
+        "description": "shared.views",
+        "peekOfCode": "def create_course(request):\n    if request.user_type == 'admin':\n        created_by_type = 'admin'\n        created_by_id = request.user.id\n    elif request.user.role == 'principal':\n        created_by_type = 'principal'\n        created_by_id = request.user.id\n    elif request.user.role == 'hod':\n        created_by_type = 'hod'\n        created_by_id = request.user.id",
+        "detail": "shared.views",
+        "documentation": {}
+    },
+    {
+        "label": "update_department",
+        "kind": 2,
+        "importPath": "shared.views",
+        "description": "shared.views",
+        "peekOfCode": "def update_department(request, dept_id):\n    if request.user_type != 'admin' and request.user.role != 'principal':\n        return error_response('ACCESS_DENIED', status.HTTP_403_FORBIDDEN)\n    try:\n        department = Department.objects.get(id=dept_id)\n    except Department.DoesNotExist:\n        return error_response('Department not found', status.HTTP_404_NOT_FOUND)\n    serializer = DepartmentCreateSerializer(department, data=request.data, partial=True)\n    if serializer.is_valid():\n        serializer.save()",
+        "detail": "shared.views",
+        "documentation": {}
+    },
+    {
+        "label": "update_course",
+        "kind": 2,
+        "importPath": "shared.views",
+        "description": "shared.views",
+        "peekOfCode": "def update_course(request, course_id):\n    try:\n        course = Course.objects.get(id=course_id)\n    except Course.DoesNotExist:\n        return error_response('Course not found', status.HTTP_404_NOT_FOUND)\n    if request.user_type == 'admin' or request.user.role == 'principal':\n        pass  # Full access\n    elif request.user.role == 'hod' and course.department_id == request.user.department_id:\n        pass  # HOD can update courses in their department\n    else:",
+        "detail": "shared.views",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "students.migrations.0001_initial",
+        "description": "students.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Student',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('name', models.CharField(max_length=100)),",
+        "detail": "students.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "students.migrations.0002_student_is_active",
+        "description": "students.migrations.0002_student_is_active",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('students', '0001_initial'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='student',\n            name='is_active',\n            field=models.BooleanField(default=True),\n        ),",
+        "detail": "students.migrations.0002_student_is_active",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "students.migrations.0003_alter_student_course_alter_student_department_and_more",
+        "description": "students.migrations.0003_alter_student_course_alter_student_department_and_more",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('shared', '0001_initial'),\n        ('students', '0002_student_is_active'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='student',\n            name='course',\n            field=models.ForeignKey(on_delete=django.db.models.deletion.CASCADE, to='shared.course'),",
+        "detail": "students.migrations.0003_alter_student_course_alter_student_department_and_more",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "students.migrations.0004_alter_student_email",
+        "description": "students.migrations.0004_alter_student_email",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('students', '0003_alter_student_course_alter_student_department_and_more'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='student',\n            name='email',\n            field=models.EmailField(max_length=254, unique=True),\n        ),",
+        "detail": "students.migrations.0004_alter_student_email",
+        "documentation": {}
+    },
+    {
+        "label": "StudentsConfig",
+        "kind": 6,
+        "importPath": "students.apps",
+        "description": "students.apps",
+        "peekOfCode": "class StudentsConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'students'",
+        "detail": "students.apps",
+        "documentation": {}
+    },
+    {
+        "label": "Student",
+        "kind": 6,
+        "importPath": "students.models",
+        "description": "students.models",
+        "peekOfCode": "class Student(models.Model):\n    name = models.CharField(max_length=100)\n    phone_number = models.CharField(max_length=15)\n    email = models.EmailField(unique=True)\n    address = models.TextField()\n    college_id = models.CharField(max_length=20, unique=True)\n    department = models.ForeignKey(Department, on_delete=models.CASCADE)\n    course = models.ForeignKey(Course, on_delete=models.CASCADE)\n    password = models.CharField(max_length=255)\n    # Approval system",
+        "detail": "students.models",
+        "documentation": {}
+    },
+    {
+        "label": "validate_icet_email",
+        "kind": 2,
+        "importPath": "students.models",
+        "description": "students.models",
+        "peekOfCode": "def validate_icet_email(value):\n    if not value.endswith('@icet.ac.in'):\n        raise ValidationError(\"Only @icet.ac.in emails are allowed for registration.\")\nclass Student(models.Model):\n    name = models.CharField(max_length=100)\n    phone_number = models.CharField(max_length=15)\n    email = models.EmailField(unique=True)\n    address = models.TextField()\n    college_id = models.CharField(max_length=20, unique=True)\n    department = models.ForeignKey(Department, on_delete=models.CASCADE)",
+        "detail": "students.models",
+        "documentation": {}
+    },
+    {
+        "label": "StudentRegistrationSerializer",
+        "kind": 6,
+        "importPath": "students.serializers",
+        "description": "students.serializers",
+        "peekOfCode": "class StudentRegistrationSerializer(serializers.ModelSerializer):\n    password = serializers.CharField(write_only=True, min_length=8)\n    class Meta:\n        model = Student\n        fields = ['name', 'phone_number', 'email', 'address', 'college_id', 'department', 'course', 'password']\n    def validate_college_id(self, value):\n        if Student.objects.filter(college_id=value).exists():\n            raise serializers.ValidationError(\"College ID already exists.\")\n        return value\n    def create(self, validated_data):",
+        "detail": "students.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "PendingStudentSerializer",
+        "kind": 6,
+        "importPath": "students.serializers",
+        "description": "students.serializers",
+        "peekOfCode": "class PendingStudentSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = Student\n        fields = ['id', 'name', 'email', 'phone_number', 'address', 'college_id', \n                 'department', 'course', 'approval_status', 'created_at']\nclass StudentApprovalSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = Student\n        fields = ['id', 'name', 'email', 'college_id', 'department', 'course', \n                 'approval_status', 'academic_year_start', 'academic_year_end']",
+        "detail": "students.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "StudentApprovalSerializer",
+        "kind": 6,
+        "importPath": "students.serializers",
+        "description": "students.serializers",
+        "peekOfCode": "class StudentApprovalSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = Student\n        fields = ['id', 'name', 'email', 'college_id', 'department', 'course', \n                 'approval_status', 'academic_year_start', 'academic_year_end']\n        read_only_fields = ['id', 'name', 'email', 'college_id', 'department', 'course']",
+        "detail": "students.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "students.urls",
+        "description": "students.urls",
+        "peekOfCode": "urlpatterns = [\n    # Student Registration\n    path('register/', views.register_student, name='register_student'),\n    path('profile/', views.student_profile, name='student_profile'),\n    # Teacher Student Management (HOD/Principal)\n    path('pending/', views.get_pending_students, name='pending_students'),\n    path('approved/', views.get_approved_students, name='approved_students'),\n    path('<int:student_id>/approve/', views.approve_student, name='approve_student'),\n]",
+        "detail": "students.urls",
+        "documentation": {}
+    },
+    {
+        "label": "register_student",
+        "kind": 2,
+        "importPath": "students.views",
+        "description": "students.views",
+        "peekOfCode": "def register_student(request):\n    serializer = StudentRegistrationSerializer(data=request.data)\n    if serializer.is_valid():\n        student = serializer.save()\n        return success_response('REGISTRATION_SUCCESS', {\n            \"student_id\": student.id,\n            \"college_id\": student.college_id\n        }, status.HTTP_201_CREATED)\n    return error_response(serializer.errors, status.HTTP_400_BAD_REQUEST)\n# @api_view(['POST'])",
+        "detail": "students.views",
+        "documentation": {}
+    },
+    {
+        "label": "get_pending_students",
+        "kind": 2,
+        "importPath": "students.views",
+        "description": "students.views",
+        "peekOfCode": "def get_pending_students(request):\n    if request.user_type != 'admin' and request.user.role not in ['hod', 'principal']:\n        return error_response('ACCESS_DENIED', status.HTTP_403_FORBIDDEN)\n    if request.user_type != 'admin' and request.user.role == 'hod':\n        students = Student.objects.select_related('department', 'course').filter(approval_status='pending', department_id=request.user.department_id)\n    else:\n        students = Student.objects.select_related('department', 'course').filter(approval_status='pending')\n    students_data = []\n    for student in students:\n        students_data.append({",
+        "detail": "students.views",
+        "documentation": {}
+    },
+    {
+        "label": "approve_student",
+        "kind": 2,
+        "importPath": "students.views",
+        "description": "students.views",
+        "peekOfCode": "def approve_student(request, student_id):\n    if request.user.role not in ['hod', 'principal', 'admin']:\n        return error_response('ACCESS_DENIED', status.HTTP_403_FORBIDDEN)\n    try:\n        student = Student.objects.get(id=student_id)\n    except Student.DoesNotExist:\n        return error_response('USER_NOT_FOUND', status.HTTP_404_NOT_FOUND)\n    if request.user.role == 'hod' and student.department_id != request.user.department_id:\n        return error_response('ACCESS_DENIED', status.HTTP_403_FORBIDDEN)\n    action = request.data.get('action')",
+        "detail": "students.views",
+        "documentation": {}
+    },
+    {
+        "label": "get_approved_students",
+        "kind": 2,
+        "importPath": "students.views",
+        "description": "students.views",
+        "peekOfCode": "def get_approved_students(request):\n    if request.user_type != 'admin' and request.user.role not in ['tutor', 'hod', 'principal']:\n        return error_response('ACCESS_DENIED', status.HTTP_403_FORBIDDEN)\n    if request.user_type != 'admin' and request.user.role == 'hod':\n        students = Student.objects.select_related('department', 'course').filter(approval_status='approved', department_id=request.user.department_id)\n    elif request.user_type != 'admin' and request.user.role == 'tutor':\n        students = Student.objects.select_related('department', 'course').filter(approval_status='approved', course_id=request.user.course_id)\n    else:\n        students = Student.objects.select_related('department', 'course').filter(approval_status='approved')\n    students_data = []",
+        "detail": "students.views",
+        "documentation": {}
+    },
+    {
+        "label": "student_profile",
+        "kind": 2,
+        "importPath": "students.views",
+        "description": "students.views",
+        "peekOfCode": "def student_profile(request):\n    student = request.user\n    return success_response('', {\n        \"id\": student.id,\n        \"name\": student.name,\n        \"email\": student.email,\n        \"phone_number\": student.phone_number,\n        \"address\": student.address,\n        \"college_id\": student.college_id,\n        \"department_id\": student.department_id,",
+        "detail": "students.views",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "teachers.migrations.0001_initial",
+        "description": "teachers.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Teacher',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('name', models.CharField(max_length=100)),",
+        "detail": "teachers.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "teachers.migrations.0002_teacher_course_alter_teacher_department",
+        "description": "teachers.migrations.0002_teacher_course_alter_teacher_department",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('shared', '0001_initial'),\n        ('teachers', '0001_initial'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='teacher',\n            name='course',\n            field=models.ForeignKey(blank=True, null=True, on_delete=django.db.models.deletion.CASCADE, to='shared.course'),",
+        "detail": "teachers.migrations.0002_teacher_course_alter_teacher_department",
+        "documentation": {}
+    },
+    {
+        "label": "TeacherAdmin",
+        "kind": 6,
+        "importPath": "teachers.admin",
+        "description": "teachers.admin",
+        "peekOfCode": "class TeacherAdmin(admin.ModelAdmin):\n    list_display = ['name', 'employee_id', 'role', 'department', 'is_active', 'created_at']\n    list_filter = ['role', 'department', 'is_active']\n    search_fields = ['name', 'email', 'employee_id']\n    readonly_fields = ['created_at', 'updated_at']",
+        "detail": "teachers.admin",
+        "documentation": {}
+    },
+    {
+        "label": "TeachersConfig",
+        "kind": 6,
+        "importPath": "teachers.apps",
+        "description": "teachers.apps",
+        "peekOfCode": "class TeachersConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'teachers'",
+        "detail": "teachers.apps",
+        "documentation": {}
+    },
+    {
+        "label": "Teacher",
+        "kind": 6,
+        "importPath": "teachers.models",
+        "description": "teachers.models",
+        "peekOfCode": "class Teacher(models.Model):\n    name = models.CharField(max_length=100)\n    email = models.EmailField(unique=True)\n    phone_number = models.CharField(max_length=15)\n    employee_id = models.CharField(max_length=20, unique=True)\n    role = models.CharField(max_length=20, choices=ROLE_CHOICES)\n    department = models.ForeignKey(Department, on_delete=models.CASCADE, null=True, blank=True)\n    course = models.ForeignKey('shared.Course', on_delete=models.CASCADE, null=True, blank=True)\n    password = models.CharField(max_length=255)\n    is_active = models.BooleanField(default=True)",
+        "detail": "teachers.models",
+        "documentation": {}
+    },
+    {
+        "label": "TeacherCreateSerializer",
+        "kind": 6,
+        "importPath": "teachers.serializers",
+        "description": "teachers.serializers",
+        "peekOfCode": "class TeacherCreateSerializer(serializers.ModelSerializer):\n    password = serializers.CharField(write_only=True, min_length=8)\n    class Meta:\n        model = Teacher\n        fields = ['name', 'email', 'phone_number', 'employee_id', 'role', 'department', 'course', 'password']\n    def validate_employee_id(self, value):\n        if Teacher.objects.filter(employee_id=value).exists():\n            raise serializers.ValidationError(\"Employee ID already exists.\")\n        return value\n    def create(self, validated_data):",
+        "detail": "teachers.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "TeacherLoginSerializer",
+        "kind": 6,
+        "importPath": "teachers.serializers",
+        "description": "teachers.serializers",
+        "peekOfCode": "class TeacherLoginSerializer(serializers.Serializer):\n    email = serializers.EmailField()\n    password = serializers.CharField()\nclass TeacherListSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = Teacher\n        fields = ['id', 'name', 'email', 'employee_id', 'role', 'department', 'is_active', 'created_at']\nclass TeacherUpdateSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = Teacher",
+        "detail": "teachers.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "TeacherListSerializer",
+        "kind": 6,
+        "importPath": "teachers.serializers",
+        "description": "teachers.serializers",
+        "peekOfCode": "class TeacherListSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = Teacher\n        fields = ['id', 'name', 'email', 'employee_id', 'role', 'department', 'is_active', 'created_at']\nclass TeacherUpdateSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = Teacher\n        fields = ['name', 'email', 'phone_number', 'department', 'is_active']\n    def validate(self, data):\n        instance = self.instance",
+        "detail": "teachers.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "TeacherUpdateSerializer",
+        "kind": 6,
+        "importPath": "teachers.serializers",
+        "description": "teachers.serializers",
+        "peekOfCode": "class TeacherUpdateSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = Teacher\n        fields = ['name', 'email', 'phone_number', 'department', 'is_active']\n    def validate(self, data):\n        instance = self.instance\n        if instance.role == 'principal' and data.get('department'):\n            raise serializers.ValidationError(\"Principal cannot be assigned to a department.\")\n        if instance.role in ['hod', 'tutor'] and not data.get('department', instance.department):\n            raise serializers.ValidationError(f\"{instance.get_role_display()} must have a department.\")",
+        "detail": "teachers.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "teachers.urls",
+        "description": "teachers.urls",
+        "peekOfCode": "urlpatterns = [\n    # Teacher Profile\n    path('profile/', views.teacher_profile, name='teacher_profile'),\n    path('<int:teacher_id>/details/', views.get_teacher_details, name='get_teacher_details'),\n    # Teacher Management (Admin/Principal/HOD)\n    path('create/', views.create_teacher, name='create_teacher'),\n    path('list/', views.list_teachers, name='list_teachers'),\n    path('<int:teacher_id>/update/', views.update_teacher, name='update_teacher'),\n    path('<int:teacher_id>/deactivate/', views.deactivate_teacher, name='deactivate_teacher'),\n]",
+        "detail": "teachers.urls",
+        "documentation": {}
+    },
+    {
+        "label": "create_teacher",
+        "kind": 2,
+        "importPath": "teachers.views",
+        "description": "teachers.views",
+        "peekOfCode": "def create_teacher(request):\n    serializer = TeacherCreateSerializer(data=request.data)\n    if serializer.is_valid():\n        teacher = serializer.save()\n        return success_response('USER_CREATED', {\n            \"teacher_id\": teacher.id,\n            \"employee_id\": teacher.employee_id\n        }, status.HTTP_201_CREATED)\n    return error_response(serializer.errors)\n@api_view(['GET'])",
+        "detail": "teachers.views",
+        "documentation": {}
+    },
+    {
+        "label": "list_teachers",
+        "kind": 2,
+        "importPath": "teachers.views",
+        "description": "teachers.views",
+        "peekOfCode": "def list_teachers(request):\n    if request.user_type == 'admin':\n        teachers = Teacher.objects.select_related('department', 'course').all()\n    elif request.user.role == 'principal':\n        teachers = Teacher.objects.select_related('department', 'course').filter(role__in=['hod', 'tutor'])\n    elif request.user.role == 'hod':\n        teachers = Teacher.objects.select_related('department', 'course').filter(role='tutor', department_id=request.user.department_id)\n    else:\n        return error_response('ACCESS_DENIED', status.HTTP_403_FORBIDDEN)\n    teachers_data = []",
+        "detail": "teachers.views",
+        "documentation": {}
+    },
+    {
+        "label": "update_teacher",
+        "kind": 2,
+        "importPath": "teachers.views",
+        "description": "teachers.views",
+        "peekOfCode": "def update_teacher(request, teacher_id):\n    try:\n        target_teacher = Teacher.objects.get(id=teacher_id)\n    except Teacher.DoesNotExist:\n        return error_response('USER_NOT_FOUND', status.HTTP_404_NOT_FOUND)\n    if request.user_type != 'admin' and not request.user.can_manage_user(target_teacher):\n        return error_response('ACCESS_DENIED', status.HTTP_403_FORBIDDEN)\n    serializer = TeacherUpdateSerializer(target_teacher, data=request.data, partial=True)\n    if serializer.is_valid():\n        serializer.save()",
+        "detail": "teachers.views",
+        "documentation": {}
+    },
+    {
+        "label": "deactivate_teacher",
+        "kind": 2,
+        "importPath": "teachers.views",
+        "description": "teachers.views",
+        "peekOfCode": "def deactivate_teacher(request, teacher_id):\n    try:\n        target_teacher = Teacher.objects.get(id=teacher_id)\n    except Teacher.DoesNotExist:\n        return error_response('USER_NOT_FOUND', status.HTTP_404_NOT_FOUND)\n    if request.user_type != 'admin' and not request.user.can_manage_user(target_teacher):\n        return error_response('ACCESS_DENIED', status.HTTP_403_FORBIDDEN)\n    target_teacher.is_active = False\n    target_teacher.save()\n    return success_response('USER_DEACTIVATED')",
+        "detail": "teachers.views",
+        "documentation": {}
+    },
+    {
+        "label": "teacher_profile",
+        "kind": 2,
+        "importPath": "teachers.views",
+        "description": "teachers.views",
+        "peekOfCode": "def teacher_profile(request):\n    teacher = request.user\n    return success_response('', {\n        \"id\": teacher.id,\n        \"name\": teacher.name,\n        \"email\": teacher.email,\n        \"phone_number\": teacher.phone_number,\n        \"employee_id\": teacher.employee_id,\n        \"role\": teacher.role,\n        \"department_id\": teacher.department_id,",
+        "detail": "teachers.views",
+        "documentation": {}
+    },
+    {
+        "label": "get_teacher_details",
+        "kind": 2,
+        "importPath": "teachers.views",
+        "description": "teachers.views",
+        "peekOfCode": "def get_teacher_details(request, teacher_id):\n    try:\n        teacher = Teacher.objects.get(id=teacher_id)\n    except Teacher.DoesNotExist:\n        return error_response('USER_NOT_FOUND', status.HTTP_404_NOT_FOUND)\n    return success_response('', {\n        \"id\": teacher.id,\n        \"name\": teacher.name,\n        \"email\": teacher.email,\n        \"phone_number\": teacher.phone_number,",
+        "detail": "teachers.views",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "manage",
+        "description": "manage",
+        "peekOfCode": "def main():\n    \"\"\"Run administrative tasks.\"\"\"\n    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'backend_project.settings')\n    try:\n        from django.core.management import execute_from_command_line\n    except ImportError as exc:\n        raise ImportError(\n            \"Couldn't import Django. Are you sure it's installed and \"\n            \"available on your PYTHONPATH environment variable? Did you \"\n            \"forget to activate a virtual environment?\"",
+        "detail": "manage",
+        "documentation": {}
+    }
+]
