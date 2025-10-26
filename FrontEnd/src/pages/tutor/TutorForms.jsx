@@ -105,13 +105,13 @@ const TutorForms = () => {
                 <div className="text-sm text-gray-500">
                   Form ID: {form.id}
                 </div>
-                <button
+                {/* <button
                   onClick={() => window.open(`/forms/${form.id}`, '_blank')}
                   className="flex items-center gap-2 px-3 py-1 bg-green-50 hover:bg-green-100 text-green-600 rounded-lg transition-colors text-sm"
                 >
                   <Eye className="w-4 h-4" />
                   View Form
-                </button>
+                </button> */}
               </div>
             </div>
           </div>

@@ -183,13 +183,13 @@ const HodForms = () => {
                   {form.is_active ? 'Active' : 'Inactive'}
                 </span>
                 
-                <button
+                {/* <button
                   onClick={() => window.open(`/forms/${form.id}`, '_blank')}
                   className="flex items-center gap-2 bg-blue-50 hover:bg-blue-100 text-blue-600 px-3 py-1 rounded-lg transition-colors text-sm"
                 >
                   <Eye className="w-4 h-4" />
                   View
-                </button>
+                </button> */}
               </div>
             </div>
           </div>
