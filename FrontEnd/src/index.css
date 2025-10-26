@@ -1,0 +1,59 @@
+@import "tailwindcss";
+
+/* Workflow Progress Styles */
+.workflow-progress {
+  margin: 15px 0;
+  padding: 15px;
+  background: #f8f9fa;
+  border-radius: 5px;
+}
+
+.workflow-steps {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-top: 10px;
+}
+
+.workflow-steps .step {
+  padding: 5px 12px;
+  border-radius: 15px;
+  font-size: 0.8em;
+  font-weight: bold;
+  background: #e9ecef;
+  color: #6c757d;
+  position: relative;
+}
+
+.workflow-steps .step.active {
+  background: #ffc107;
+  color: #000;
+}
+
+.workflow-steps .step.completed {
+  background: #28a745;
+  color: white;
+}
+
+.workflow-steps .step:not(:last-child)::after {
+  content: '→';
+  position: absolute;
+  right: -15px;
+  color: #6c757d;
+}
+
+/* Status Classes */
+.status.pending {
+  background: #ffc107;
+  color: #000;
+}
+
+.status.approved {
+  background: #28a745;
+  color: white;
+}
+
+.status.rejected {
+  background: #dc3545;
+  color: white;
+}
