@@ -92,17 +92,6 @@ TEMPLATES = [
 
 WSGI_APPLICATION = 'backend_project.wsgi.application'
 
-# DATABASES = {
-#     'default': {
-#         'ENGINE': 'django.db.backends.postgresql',
-#         'NAME': 'miniproject_db',
-#         'USER': 'postgres',
-#         'PASSWORD': 'Melbin2003',
-#         'HOST': 'localhost',
-#         'PORT': '5433',
-#     }
-# }
-
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.sqlite3',
