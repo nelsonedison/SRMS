@@ -1,8 +1,8 @@
-# SRMS - Student Record Management System
+# SRMS - Student Request Management System
 
 ## Abstract
 
-The Student Record Management System (SRMS) is a comprehensive web-based application designed to streamline academic administration and student data management in educational institutions. Built with modern full-stack technologies, SRMS provides a centralized platform for managing student records, teacher information, and administrative operations through role-based access control and hierarchical approval workflows.
+The Student Request Management System (SRMS) is a comprehensive web-based application designed to streamline academic administration and student data management in educational institutions. Built with modern full-stack technologies, SRMS provides a centralized platform for managing student request records, teacher information, and administrative operations through role-based access control and hierarchical approval workflows.
 
 The system addresses the critical need for efficient student data management by offering features such as dynamic form creation, department-wise course management, and multi-level approval processes. With its intuitive user interface and robust backend architecture, SRMS enhances operational efficiency while maintaining data security and integrity.
 
